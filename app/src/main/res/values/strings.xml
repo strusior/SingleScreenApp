@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DreamTeam</string>
+    <string name="team_name">Lovecraftian Football Dream Team</string>
+    <string name="goal_keeper">Goalkeeper: Hastur</string>
+    <string name="mid_fielders">Midfielders: Mi-Go</string>
+    <string name="striker">Striker: Nyarlathotep</string>
+    <string name="no">NO</string>
+    <string name="stoppin">STOPPIN</string>
+    <string name="us">US!!!</string>
+</resources>
